@@ -1,0 +1,20 @@
+{
+  "base": {
+    "word_count": 28,
+    "mistake_count": "NA",
+    "keyword_match": "NA",
+    "string_match": "NA"
+  },
+  "target": {
+    "word_count": 28,
+    "mistake_count": 3,
+    "keyword_match": 65.51724137931035,
+    "string_match": 100
+  },
+  "dictionary": {
+    "word_count": 370099,
+    "mistake_count": "NA",
+    "keyword_match": "NA",
+    "string_match": "NA"
+  }
+}
